@@ -26,8 +26,7 @@ A análise resultante desse projeto foi de grande utilidade para identificar pos
 
 ## 📑 Relatório
 
-
-<a href=" https://docs.google.com/document/d/1d85-t6tnoYovt63QIFVe0b7DS50Mk0btYGB5tB1sLcM/edit?usp=sharing">Clique aqui para acessar o Relatório<a/>
+Clique aqui para acessar o Relatório: https://docs.google.com/document/d/1d85-t6tnoYovt63QIFVe0b7DS50Mk0btYGB5tB1sLcM/edit?usp=sharing
 
     
 ## 🤝🏾 Equipe
